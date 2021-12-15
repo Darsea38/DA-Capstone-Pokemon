@@ -39,4 +39,137 @@ While this is usually a secondary effect, the move Fake Out will always flinch i
   This also refers to Pokemon with great defensive base stats to tank attacks from the opponents while their HP is gradually reduced. Celesteela can wall lots of Pokemon due to its incredible defences and typing while can defeat them just using the Leech Seed + Protect + Leftovers combination.
   
   
+  # Pokemon Roles
   
+  -- Check
+  
+  -- Counter
+  
+  -- Sweeper
+  
+  -- Abuser
+  
+  -- Revenge Killer
+  
+  -- Support
+  
+  -- Phazer
+  
+  --Trapper
+  
+  Reference- victoryroadvgc.com/resources/glossary/
+
+
+
+# 2017 Pokemon Worlds VGC
+
+-Ryota Otsubo (2017 Winner)
+     -Krookodile (1)
+     -Whimsicott (1)
+     -Tapu Fini (1)
+     -Marowak (Alola) (1)
+     -Celesteela (1)
+     -Tapu Koko (1)
+     
+ -Sam Pandelis (Runner up)
+     -Ninetales (Alola) (1)
+     -Arcanine (1)
+     -Garchomp (1)
+     -Mandibuzz (1)
+     -Tapu Lele (1)
+     -Xurkitree (1)
+ 
+ -Paul Ruiz (Semi Finalist)
+     -Tapu Koko (2)
+     -Salamence (1)
+     -Snorlax (1)
+     -Persian (Alola) (1)
+     -Marowak (Alola) (2)
+     -Celesteela (2)
+ 
+ -Tomoyuki Yoshimura (Semi Finalist)
+     -Nihilego (1)
+     -Tapu Koko (3)
+     -Salamence (2)
+     -Metagross (1)
+     -Buzzwole (1)
+     -Gastrodon (1)
+     
+
+# 2018 Pokemon Worlds VGC
+
+-Paul Ruiz (2018 Winner)
+    -Tapu Koko (4)
+    -Salamence (3)
+    -Snorlax (2)
+    -Incineroar (1)
+    -Gastrodon (2)
+    -Kartana (1)
+    
+-Emilio Forbes (Runner Up)
+    -Tapu Bulu (1)
+    -Incineroar (2)
+    -Gengar (1)
+    -Latias (1)
+    -Landorus Therian Forme (1)
+    -Politoed (1)
+    
+-Nils Dunlop (Semi Finalist)
+    -Metagross (1)
+    -Mimikyu (1)
+    -Snorlax (3)
+    -Landorus Therian Forme (2)
+    -Incineroar (3)
+    -Tapu Koko (5)
+    
+-Yusei Matsuno (Semi Finalist)
+    -Tapu Koko (6)
+    -Gothitelle (1)
+    -Salamence (4)
+    -Snorlax (4)
+    -Incineroar (4)
+    -Amoonguss (1)
+    
+
+# 2019 Pokemon Worlds VGC
+ 
+ -Naoto Mizobuchi (2019 Winner)
+     -Lunala (SP) (1)
+     -Groudon (SP) (2)
+     -Incineroar (5)
+     -Salamence (5)
+     -Tapu Fini (2)
+     -Stakataka (1)
+ 
+ -Hirofumi Kimura (Runner up)
+     -Necrozma Dusk (SP) (1)
+     -Tapu Lele (2)
+     -Kangaskhan (1)
+     -Salamence (6)
+     -Groudon (SP) (1)
+     -Umbreon (1)
+ 
+ -James Baek (Semi Finalist)
+     -Xerneas (SP) (1)
+     -Incineroar (6)
+     -Tornadus (1)
+     -Kyogre (SP) (1)
+     -Kartana (2)
+     -Amoonguss (2)
+ 
+ -Kazuki Kobayashi (Semi Finalist)
+     -Yveltal (SP) (1)
+     -Groudon (SP) (2)
+     -Tapu Koko (7)
+     -Metagross (2)
+     -Incineroar (7)
+     -Mimikyu (2)
+     
+     
+ -Pokemon most Used:
+     -Incineroar 7 (2 winners, 1 runner up, 4 semi finalist) (all 4 in 2018)
+     -Tapu Koko 7 (2 winners, 5 semi finalist)
+     -Salamence 6 (2 winners, 1 runner up, 3 semi finalist
+     -Snorlax 4 ( 1 Winner, 3 Semi finalist) (none in 2019)
+     -Metagross 2 (2 semi finalist)
+     -Groudon 2 (1 winner, 1 semi finalist) (all 2019)

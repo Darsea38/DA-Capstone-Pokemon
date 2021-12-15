@@ -2,15 +2,15 @@
 Capstone that showcases what I learned at Divergence
 
 # Glossary
--- Metagame - Set of Pokemon commonly seen within a format, usually centralizing it. For instance, the VGC (Video Game Championship) format had a metagame of around 40 Pokemon like Kangaskhan, Tapu Fini, Tyranitar, Metagross, Cresselia, Kartana
+- Metagame - Set of Pokemon commonly seen within a format, usually centralizing it. For instance, the VGC (Video Game Championship) format had a metagame of around 40 Pokemon like Kangaskhan, Tapu Fini, Tyranitar, Metagross, Cresselia, Kartana
 
 Keep in mind that metagame only refers to the Pokemon used the most, whereas format englobes all the Pokemon available during a certain period of time. Despite this, people will oftentimes use format and metagame interchangeably - look out for the context!
 
--- STAB - Abbreviation for Same Type Attack Bonus, refers to the 50% damage increase of any given move used by a Pokemon that shares the same typing of the move.
+- STAB - Abbreviation for Same Type Attack Bonus, refers to the 50% damage increase of any given move used by a Pokemon that shares the same typing of the move.
 
 For example, Tapu Lele gets a 50% boost when using Dazzling Gleam because both (Pokemon and Attack) are Fairy Type. This doesn't apply if the same Pokemon uses an attack that differs on typing, like Thunderbolt.
 
--- Movepool - Set of viable moves in competitive play that a Pokemon may learn
+- Movepool - Set of viable moves in competitive play that a Pokemon may learn
 
 -- Testing - Playing with a team is not yet "completed" to find its weaknesses and weak points in order to improve it. Keep in mind that this is completely subjective.
 
@@ -64,12 +64,12 @@ While this is usually a secondary effect, the move Fake Out will always flinch i
 # 2017 Pokemon Worlds VGC
 
 -Ryota Otsubo (2017 Winner)
-     -Krookodile (1)
-     -Whimsicott (1)
-     -Tapu Fini (1)
-     -Marowak (Alola) (1)
-     -Celesteela (1)
-     -Tapu Koko (1)
+- Krookodile (1)
+- Whimsicott (1)
+- Tapu Fini (1)
+- Marowak (Alola) (1)
+- Celesteela (1)
+- Tapu Koko (1)
      
  -Sam Pandelis (Runner up)
      -Ninetales (Alola) (1)

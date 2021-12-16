@@ -234,9 +234,17 @@ While this is usually a secondary effect, the move Fake Out will always flinch i
      Xerneas 2
      Xurkitree 1
      Yveltal 2
+
+
+# Predicted best Team with Stats
      
+     1. Tapu Koko 15
+     2. Incineroar 12
+     3. Kartana 7
+     4. Salamence 7
+     5. Snorlax 6
+     6. Tapu Fini 6
      
-     
-     
+# Best Team Results
      
      

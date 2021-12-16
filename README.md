@@ -1,7 +1,7 @@
 # DA-Capstone-Pokemon
 Capstone that showcases what I learned at Divergence
 
-# Glossary
+# Glossary of Competitive Terms
 - Metagame - Set of Pokemon commonly seen within a format, usually centralizing it. For instance, the VGC (Video Game Championship) format had a metagame of around 40 Pokemon like Kangaskhan, Tapu Fini, Tyranitar, Metagross, Cresselia, Kartana
 
 Keep in mind that metagame only refers to the Pokemon used the most, whereas format englobes all the Pokemon available during a certain period of time. Despite this, people will oftentimes use format and metagame interchangeably - look out for the context!
@@ -248,5 +248,6 @@ While this is usually a secondary effect, the move Fake Out will always flinch i
      6. Tapu Fini 6
      
 # Best Team Results
-     Subjective but predicted team has strategies involved. There's a reason for their popularity. Could be useful 2017-2018 before Special Pokemon were allowed
+
+Subjective but predicted team has strategies involved. There's a reason for their popularity. Could be useful 2017-2018 before Special Pokemon were allowed
      

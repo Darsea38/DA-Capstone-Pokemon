@@ -41,21 +41,23 @@ While this is usually a secondary effect, the move Fake Out will always flinch i
   
   # Pokemon Roles
   
-  -- Check
+  - Check - When a Pokemon can effectively knock out another Pokemon easily to it doesn't pose a threat.
   
-  -- Counter
+  - Counter - When a Pokmeon can effectively knock out another Pokemon and can reliably take attacks
   
-  -- Sweeper
+  - Sweeper - Pokemon with strong offensive potential and can knock out several Pokemon in a row.
   
-  -- Abuser
+  - Abuser - When Pokemon take advantage of a specific move, status condition or field condition (Think this move is effective, lets do it again)
   
-  -- Revenge Killer
+  - Revenge Killer - Pokemon whose function is switching into the field to replace a defeated team Pokemon to give massive damage to the opposing Pokemon the next turn.
   
-  -- Support
+  - Support - Pokemon or moves with the main goal of helping the rest of the team, which will defeat the foes. Can be healing or take damage like Tank
   
-  -- Phazer
+  - Phazer - Pokemon that use a move that forces the opposing Pokemon to be switched to another Pokemon. Definetely some strategy there.
   
-  --Trapper
+  - Trapper - Pokemon whose ability prevents the opponent to be switched out. 
+  
+  - Pivot - Pokemon commonly used for switching and repositioning during a game. Pokemon can be sturdy or fast and are solid switch-ins. Examples Incineroar and Tapu Koko. Certain moves these Pokemon know is Fake Out/U-turn and Volt Switch (can override terrains)
   
   Reference- victoryroadvgc.com/resources/glossary/
 
@@ -246,5 +248,5 @@ While this is usually a secondary effect, the move Fake Out will always flinch i
      6. Tapu Fini 6
      
 # Best Team Results
-     
+     Subjective but predicted team has strategies involved. There's a reason for their popularity. Could be useful 2017-2018 before Special Pokemon were allowed
      
